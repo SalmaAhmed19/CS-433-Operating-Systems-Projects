@@ -1,0 +1,13 @@
+---
+:id: 150065546
+:submitters:
+- :name: Salma Rashed
+  :email: rashe005@csusm.edu
+- :name: Taya Wongsalong
+  :email: wongs001@csusm.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-19 18:35:56.725838000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-19 10:35:56.725838000 Z
+:status: processed
